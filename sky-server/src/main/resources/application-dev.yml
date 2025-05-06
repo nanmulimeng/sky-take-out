@@ -7,8 +7,8 @@ sky:
     username: root
     password: '1234'
 #  阿里云oss配置方式
-  alioss:
-    endpoint:
-    access-key-id:
-    access-key-secret:
-    bucket-name:
+#  alioss:
+#    endpoint:
+#    access-key-id:
+#    access-key-secret:
+#    bucket-name:
