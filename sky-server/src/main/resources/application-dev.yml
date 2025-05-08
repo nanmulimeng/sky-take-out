@@ -13,9 +13,14 @@ sky:
     password: 123456
     database: 10
 
-#  阿里云oss配置方式
+#阿里云账号配置
 #  alioss:
 #    endpoint:
 #    access-key-id:
 #    access-key-secret:
 #    bucket-name:
+#
+#微信小程序账号配置
+#  wechat:
+#    appid:
+#    secret:
