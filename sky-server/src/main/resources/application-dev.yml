@@ -13,21 +13,21 @@ sky:
     password: 123456
     database: 10
 
-#阿里云账号配置
-#  alioss:
-#    endpoint:
-#    access-key-id:
-#    access-key-secret:
-#    bucket-name:
-#
-#微信小程序账号配置
-#  wechat:
-#    appid:
-#    secret:
-#    mchid: 1561414331
-#    mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
-#    privateKeyFilePath: C:\software\apiclient_key.pem
-#    apiV3Key: CZBK51236435wxpay435434323FFDuv3
-#    weChatPayCertFilePat: C:\software\wechatpay_166D96F876F45C7D07CE98952A96EC980368ACFC.pem
-#    notifyUrl: https://e539962.r28.cpolar.top/notify/paySuccess
-#    refundNotifyUrl: https://e539962.r28.cpolar.top/notify/refundSuccess
+    #阿里云账号配置
+    #  alioss:
+    #    endpoint:
+    #    access-key-id:
+    #    access-key-secret:
+    #    bucket-name:
+    #
+    #微信小程序账号配置
+    #  wechat:
+    #    appid:
+    #    secret:
+    mchid: 1561414331
+    mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
+    privateKeyFilePath: C:\software\apiclient_key.pem
+    apiV3Key: CZBK51236435wxpay435434323FFDuv3
+    weChatPayCertFilePat: C:\software\wechatpay_166D96F876F45C7D07CE98952A96EC980368ACFC.pem
+    notifyUrl: https://e539962.r28.cpolar.top/notify/paySuccess
+    refundNotifyUrl: https://e539962.r28.cpolar.top/notify/refundSuccess
